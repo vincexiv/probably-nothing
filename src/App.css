@@ -12,4 +12,5 @@
   width: min(90%, 1920px);
   min-height: 100vh;
   margin: auto;
+  padding: 1rem;
 }
