@@ -7,7 +7,7 @@
 
 .page .page-container {
   outline: solid 1px #d4d4d4;
-  border-radius: 0.5rem;
+  border-radius: 1rem;
   background-color: white;
   width: min(90%, 1920px);
   min-height: 100vh;
